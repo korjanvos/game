@@ -1,0 +1,3 @@
+/home/kjv/dev/game/build/CMakeFiles/rebuild_cache.dir
+/home/kjv/dev/game/build/CMakeFiles/game.dir
+/home/kjv/dev/game/build/CMakeFiles/edit_cache.dir

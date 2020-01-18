@@ -1,0 +1,1 @@
+/usr/bin/clang++  -g -g -Wall   CMakeFiles/game.dir/main.cpp.o  -o game -lglfw /usr/lib/libGLEW.so /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so 
